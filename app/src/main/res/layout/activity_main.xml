@@ -20,7 +20,7 @@
         android:layout_alignParentRight="true"
         android:layout_margin="10dp"
         android:onClick="logout"
-        android:text="Logout"
+        android:text="@string/logout"
         android:textColor="?attr/colorPrimary"
         android:textStyle="bold" />
 
