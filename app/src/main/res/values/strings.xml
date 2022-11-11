@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GroceryDeliveryApp</string>
+    <string name="welcome">Welcome to Grocery Delivery App</string>
 </resources>
